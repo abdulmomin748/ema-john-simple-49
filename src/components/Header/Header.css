@@ -1,0 +1,21 @@
+.main-nav{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 15px 144px;
+    background-color: #1C2B35;
+}
+.hdr-rgt{
+    margin-right: -30px;
+}
+.hdr-rgt a{
+    margin-right: 30px;
+    color: #fff;
+    text-decoration: none;
+    font-size: 17px;
+    transition: all .5s;
+}
+
+.hdr-rgt a:hover{
+    color: #FF3030;
+}
